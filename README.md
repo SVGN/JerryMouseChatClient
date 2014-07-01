@@ -1,9 +1,9 @@
 Project contributors
 ====================
 
-Team “Jerry Mouse”
+Team ï¿½Jerry Mouseï¿½
 
-IVAN MLADENOV
-SEVGIN HASHIMOV /me
-KAMEN RADEV
-VICTOR TSENKOV
+* IVAN MLADENOV
+* SEVGIN HASHIMOV /me
+* KAMEN RADEV
+* VICTOR TSENKOV
